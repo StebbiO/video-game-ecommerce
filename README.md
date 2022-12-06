@@ -75,7 +75,7 @@ Made by:
 
 #### Deployed
 
-- https://stark-tor-14116.herokuapp.com/
+- https://stark-tor-14116.herokuapp.com/https://boiling-garden-84688.herokuapp.com/
 
 ## License
 
